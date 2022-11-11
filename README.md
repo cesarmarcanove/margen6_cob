@@ -2,6 +2,7 @@
 Margen de Ganancia y Margen Porcentual (COBOL) - Calculadora de descuento
 
 * Permite calculo del margen de ganancia
+
   Escribir el precio viejo en la casilla **"COST"**    (para usar numeros negativos: usen el signo negativo **" - "**)
   Escribir el precio actual en la casilla **"SELL"**   (para usar numeros negativos: usen el signo negativo **" - "**)
   
